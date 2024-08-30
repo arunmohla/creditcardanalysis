@@ -7,7 +7,7 @@
 
 This project involves analyzing credit card transaction data to gain insights into customer spending patterns, merchant activities, and potential fraudulent transactions. By leveraging SQL queries, we aim to uncover trends, identify high-value customers, and detect anomalies in transaction data. The project demonstrates SQL proficiency through the application of various functions and techniques to analyze and interpret complex datasets.
 
-![Credit_Card_Analysis_Project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Credit_Card_Analysis_Project](https://github.com/arunmohla/creditcardanalysis/blob/main/Cover_Photo.png)
 
 ## Objectives
 
