@@ -69,7 +69,7 @@ CREATE TABLE merchants (
 ```sql
 INSERT INTO customers (customer_id, customer_name, customer_email, registration_date)
 VALUES
-(51, 'Kenel Glu', 'kenel@treepi.com', '2024-07-25');
+(51, 'Kenel Glu', 'kenel@example.com', '2024-07-25');
 ```
 **Task 2: Update email address for Ikea from Merchants table**
 
