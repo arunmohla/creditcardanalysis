@@ -18,7 +18,7 @@ This project involves analyzing credit card transaction data to gain insights in
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](https://github.com/arunmohla/creditcardanalysis/blob/main/ERD.jpg)
 
 - **Database Creation**: Created a database named `creditcardanalysis`.
 - **Table Creation**: Created tables for customers, transactions and merchants. Each table includes relevant columns and relationships.
