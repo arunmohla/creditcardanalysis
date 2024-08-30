@@ -218,7 +218,7 @@ This project highlights the effective application of SQL in developing and manag
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/arunmohla/SQL_Project_Library_Management.git
+   git clone https://github.com/arunmohla/creditcardanalysis.git
    ```
 2. **Set Up the Database**: Execute the SQL scripts in the `creditcardanalysis.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries in the `creditcard.sql` file to perform the analysis.
