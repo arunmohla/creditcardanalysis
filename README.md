@@ -64,7 +64,7 @@ CREATE TABLE merchants (
 - **Delete**: Removed records from the `transaction` table as needed.
 
 **Task 1. Create a New Merchant Record**
--- "(51, 'Kenel Glu', 'kenel@treepi.com', '2024-07-25')"
+-- "(51, 'Kenel Glu', 'kenel@example.com', '2024-07-25')"
 
 ```sql
 INSERT INTO customers (customer_id, customer_name, customer_email, registration_date)
